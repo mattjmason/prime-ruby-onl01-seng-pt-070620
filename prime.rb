@@ -1,5 +1,5 @@
 def prime(num):
-  if x < 2:
+  if x < 2
     return false 
   else 
     for n in range(2,num)
