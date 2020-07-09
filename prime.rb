@@ -1,11 +1,8 @@
-def prime(num):
-  if x < 2
-    return false 
-  else 
-    for n in range(2,num)
-      if num % n == 0 
-        return false
-        
-    return true 
-end
-end 
+def is_prime(x):
+if x < 2:
+    return False
+else:
+    for n in range(2, x-1):
+        if x % n == 0:
+            return False
+    return True 
